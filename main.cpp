@@ -30,10 +30,9 @@ int main(){
                 }
             }
         }
-        for (int ma:mas){
-            cout << ma << " ";
-        }
-        cout << endl << i << endl;
+    }
+    for (int ma:mas){
+        cout << ma << " ";
     }
 
 }
